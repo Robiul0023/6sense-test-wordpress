@@ -2,7 +2,7 @@
                 <div class="six_sense_footer_container"> 
                   <div class="six_sense_logo"> 
                     <img src="<?php bloginfo('template_directory');?>/images/6sense-logo/logo_ux ui company.png" alt="" srcset="">
-                    <?php  echo "<p> &copy; " . date("Y");?> <?php echo bloginfo('name');?> All  Rights  Reserved</p>
+                    <?php  echo "<p>&copy;".date("Y");?> <?php echo bloginfo('name');?> All  Rights  Reserved</p>
                 </div>
 
                   <div class="six_sense_links_one"> 
