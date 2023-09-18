@@ -85,7 +85,7 @@ function custom_social_share() {
     // Get social media sharing links
     $facebook_url = 'https://www.facebook.com/sharer/sharer.php?u=' . $url;
     $linkedin_url = 'https://www.linkedin.com/shareArticle?mini=true&url=' . $url . '&title=' . $title;
-    $twitter_url = 'https://twitter.com/intent/tweet?url=' . $url . '&text=' . $title;
+    $twitter_url  = 'https://twitter.com/intent/tweet?url=' . $url . '&text=' . $title;
 
     // Output social media share links
     echo '<div class="social-share">';

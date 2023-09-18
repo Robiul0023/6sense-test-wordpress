@@ -957,6 +957,7 @@
 
 .starter_kit_potrait img{
  width: 80%;
+ height: auto;
  display: block;
  margin: 0 auto;
  margin-left: -95px;
@@ -1385,6 +1386,11 @@
  padding: 30px;
 }
 
+.ev_businee_content i{
+   margin-top: 0px;
+   margin-left: 10px;
+}
+
 .ev_businee_content.a-link{
  width: 40%;
 }
@@ -1401,7 +1407,7 @@
  font-size: 13px;
  margin-left: 30px;
  display: block;
- margin-top: -17px;
+ margin-top: -22px;
 
 }
 
@@ -2740,8 +2746,8 @@ margin-left: -10px;
 }
 
 .ev_business{
- margin-top: -16px;
- margin-left: 33px;
+ margin-top: -24px;
+ margin-left: 30px;
 }
 
 
@@ -2764,7 +2770,7 @@ margin-left: -10px;
 
 .a-link a {
  font-size: 14px;
- margin-left: 98px;
+ margin-left: 93px;
  margin-top: -21px;
  display: block;
 }
