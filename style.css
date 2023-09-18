@@ -518,6 +518,11 @@ color:#17494d;
  margin-left: 80px;
 }
 
+.market_ready h4{
+ margin-top: 30px;
+ margin-left: 10px;
+ }
+
 
 .market_ready p{
  margin-left: 35px;
@@ -549,6 +554,10 @@ color:#17494d;
  margin-left: 0px;
 }
 
+.wrong_partners h4{
+ margin-top: -50px;
+ margin-left: 10px;
+  }
 
 .wrong_partners p{
  margin-left: 35px;
